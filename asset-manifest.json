@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-prosto/static/css/main.d005afd7.css",
+    "main.js": "/React-prosto/static/js/main.d6d7fe72.js",
+    "static/js/787.d344b5dd.chunk.js": "/React-prosto/static/js/787.d344b5dd.chunk.js",
+    "index.html": "/React-prosto/index.html",
+    "main.d005afd7.css.map": "/React-prosto/static/css/main.d005afd7.css.map",
+    "main.d6d7fe72.js.map": "/React-prosto/static/js/main.d6d7fe72.js.map",
+    "787.d344b5dd.chunk.js.map": "/React-prosto/static/js/787.d344b5dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d005afd7.css",
+    "static/js/main.d6d7fe72.js"
+  ]
+}
